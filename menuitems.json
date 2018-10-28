@@ -1,27 +1,27 @@
 [
   {
     "item_id": 1,
-    "item_name": "Qabelee",
+    "item_name": "قابلی",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 2,
-    "item_name": "Karaee",
+    "item_name": "کرایی",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 3,
-    "item_name": "Kabab",
+    "item_name": "کباب",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 4,
-    "item_name": "Chalaw morgh",
+    "item_name": "چلو کباب",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 5,
-    "item_name": "Kofta",
+    "item_name": "چلو مرغ",
     "item_img": "https://goo.gl/images/nvHEZE"
   }
 ]

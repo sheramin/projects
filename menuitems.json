@@ -2,26 +2,31 @@
   {
     "item_id": 1,
     "item_name": "قابلی",
+    "item_price": "200",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 2,
     "item_name": "کرایی",
+    "item_price": "100",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 3,
     "item_name": "کباب",
+    "item_price": "300",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 4,
     "item_name": "چلو کباب",
+    "item_price": "250",
     "item_img": "https://goo.gl/images/nvHEZE"
   },
   {
     "item_id": 5,
     "item_name": "چلو مرغ",
+    "item_price": "150",
     "item_img": "https://goo.gl/images/nvHEZE"
   }
 ]

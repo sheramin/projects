@@ -2,26 +2,26 @@
   {
     "item_id": 1,
     "item_name": "Iphone 7+",
-    "item_price": "200 $"
+    "item_price": "200"
   },
   {
     "item_id": 2,
     "item_name": "Iphone 6+",
-    "item_price": "100 $"
+    "item_price": "100"
   },
   {
     "item_id": 3,
     "item_name": "SAM S9",
-    "item_price": "300 $"
+    "item_price": "300"
   },
   {
     "item_id": 4,
     "item_name": "SAM A9",
-    "item_price": "250 $"
+    "item_price": "250"
   },
   {
     "item_id": 5,
     "item_name": "HTC M9",
-    "item_price": "150 $"
+    "item_price": "150"
   }
 ]

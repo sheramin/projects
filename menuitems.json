@@ -23,5 +23,30 @@
     "item_id": 5,
     "item_name": "HTC M9",
     "item_price": "150"
+  },
+  {
+    "item_id": 6,
+    "item_name": "Iphone 7",
+    "item_price": "200"
+  },
+  {
+    "item_id": 7,
+    "item_name": "Iphone 6",
+    "item_price": "100"
+  },
+  {
+    "item_id": 8,
+    "item_name": "SAM S8",
+    "item_price": "300"
+  },
+  {
+    "item_id": 9,
+    "item_name": "SAM A8",
+    "item_price": "250"
+  },
+  {
+    "item_id": 10,
+    "item_name": "HTC M10",
+    "item_price": "150"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "item_id": 1,
     "item_name": "Iphone 7+",
-    "item_price": "200"
+    "item_price": "200",
+    "photo_link": "https://www.gstatic.com/webp/gallery/2.jpg"
   },
   {
     "item_id": 2,
     "item_name": "Iphone 6+",
-    "item_price": "100"
+    "item_price": "100",
+    "photo_link": "https://www.gstatic.com/webp/gallery/1.webp"
   },
   {
     "item_id": 3,
     "item_name": "SAM S9",
-    "item_price": "300"
+    "item_price": "300",
+    "photo_link": "https://www.gstatic.com/webp/gallery3/5.png"
   },
   {
     "item_id": 4,
     "item_name": "SAM A9",
-    "item_price": "250"
+    "item_price": "250",
+    "photo_link": "https://www.gstatic.com/webp/gallery/1.webp"
   },
   {
     "item_id": 5,
     "item_name": "HTC M9",
-    "item_price": "150"
+    "item_price": "150",
+    "photo_link": "https://www.gstatic.com/webp/gallery/1.webp"
   },
   {
     "item_id": 6,
     "item_name": "Iphone 7",
-    "item_price": "200"
+    "item_price": "200",
+    "photo_link": "https://www.gstatic.com/webp/gallery3/3_webp_ll.png"
   },
   {
     "item_id": 7,
     "item_name": "Iphone 6",
-    "item_price": "100"
+    "item_price": "100",
+    "photo_link": "https://www.gstatic.com/webp/gallery/1.webp"
   },
   {
     "item_id": 8,
     "item_name": "SAM S8",
-    "item_price": "300"
+    "item_price": "300",
+    "photo_link": "https://www.gstatic.com/webp/gallery3/1.png"
   },
   {
     "item_id": 9,
     "item_name": "SAM A8",
-    "item_price": "250"
+    "item_price": "250",
+    "photo_link": "https://www.gstatic.com/webp/gallery3/2_webp_ll.png"
   },
   {
     "item_id": 10,
     "item_name": "HTC M10",
-    "item_price": "150"
+    "item_price": "150",
+    "photo_link": "https://www.gstatic.com/webp/gallery/4.jpg"
   }
 ]
